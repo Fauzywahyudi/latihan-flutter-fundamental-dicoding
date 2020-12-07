@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:latihan1_state_management/modul_page.dart';
+import 'modul_page.dart';
 
 void main() {
   runApp(MyApp());

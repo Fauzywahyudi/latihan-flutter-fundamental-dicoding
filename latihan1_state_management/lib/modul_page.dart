@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:latihan1_state_management/done_modul_list.dart';
-import 'package:latihan1_state_management/modul_list.dart';
+import 'done_modul_list.dart';
+import 'modul_list.dart';
 
 class ModulePage extends StatefulWidget {
   @override

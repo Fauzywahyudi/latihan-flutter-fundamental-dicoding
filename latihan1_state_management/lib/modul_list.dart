@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:latihan1_state_management/modul_tile.dart';
+import 'modul_tile.dart';
 
 class ModuleList extends StatefulWidget {
   final List<String> doneModuleList;
